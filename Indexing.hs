@@ -1,7 +1,4 @@
--- CSCI 556: Multiparadigm Programming 
--- Assignment #3, Indexing
--- Shreyasi Kokamthankar
--- Student ID: 10599411
+
 
 -- This is source code module.
 module Demo
