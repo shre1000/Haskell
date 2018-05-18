@@ -1,7 +1,3 @@
--- CSCI 556: Multiparadigm Programming 
--- Assignment #3, Indexing
--- Shreyasi Kokamthankar
--- Student ID: 10599411
 
 -- This is source code module for 12.30, 12.31- lambda expressions, 12.33, 12.37, 12.38, 12.40.
 
